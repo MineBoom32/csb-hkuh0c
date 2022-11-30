@@ -1,0 +1,338 @@
+[
+  {
+    "key": 0,
+    "name": "Well-Dressed Man",
+    "dialog": "Hey! Glad you could make it.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 1,
+    "name": "Well-Dressed Man",
+    "dialog": "Name's Bill. It's a pleasure meeting you.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 2,
+    "name": "Bill",
+    "dialog": "You know why we're meeting like this, right? It's about the project.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 3,
+    "name": "Bill",
+    "dialog": "The team and I... We're running low on time. We need some assistance if we're going to get it done before the fiscal year ends.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 4,
+    "name": "Bill",
+    "dialog": "Hm... Actually...",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 5,
+    "name": "Bill",
+    "dialog": "Could we do this somewhere more private? I don't feel comfortable discussing company business in public like this.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 6,
+    "name": "Bill",
+    "dialog": "Perhaps my home could suffice. Here, let me give you my address, so we can head on over.",
+    "bg": "images/bg/park.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 7,
+    "name": "",
+    "dialog": "(You go with Bill to his house, so you can discuss this important company matter with him.)",
+    "bg": "images/black.png",
+    "portrait": "images/black.png"
+  },
+  {
+    "key": 8,
+    "name": "Bill",
+    "dialog": "Here we are. Nice place, isn't it? I like to sit here on the couch to unwind after work.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 9,
+    "name": "Bill",
+    "dialog": "Oh, here comes my wife. Hope she doesn't have any issues with me bringing a guest over.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 10,
+    "name": "Bill's Wife",
+    "dialog": "Welcome home, honey! Hey, have you seen my-",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 11,
+    "name": "Bill's Wife",
+    "dialog": "...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 12,
+    "name": "Bill's Wife",
+    "dialog": "Visitors.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 13,
+    "name": "Bill",
+    "dialog": "We're here on company business, Carol.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 14,
+    "name": "Carol",
+    "dialog": "Yeah, well last time you brought one of your coworkers here, they smashed the place up!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 15,
+    "name": "Carol",
+    "dialog": "Do you know how expensive it was getting everything replaced? We're not made of money, you know!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 16,
+    "name": "Bill",
+    "dialog": "Well you'll be happy to know that he's not my coworker anymore. He was fired after that incident.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 17,
+    "name": "Carol",
+    "dialog": "So what? That doesn't just fix all the problems that lunatic caused in this house!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 18,
+    "name": "Bill",
+    "dialog": "Ugh...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 19,
+    "name": "Bill",
+    "dialog": "You're going to have to forgive her. We had an... incident with a former coworker of mine a while back.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 20,
+    "name": "Bill",
+    "dialog": "Destroyed some very expensive stuff. Some priceless pottery, a huge TV we had on rental, several windows... It was a mess.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 21,
+    "name": "Carol",
+    "dialog": "A mess that could have been avoided!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 22,
+    "name": "Bill",
+    "dialog": "Quiet, honey.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 23,
+    "name": "Bill",
+    "dialog": "Ugh, this is exactly what I was afraid of...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 24,
+    "name": "Bill",
+    "dialog": "Look, Carol, if something happens while we're in here, I'll have this guy foot the bill.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 25,
+    "name": "Bill",
+    "dialog": "...Huh? Ah, no, I wasn't trying to make a pun there.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 26,
+    "name": "Bill",
+    "dialog": "If you even think of kicking me like that implies, I'll KICK you out of this house!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 27,
+    "name": "Bill",
+    "dialog": "Ha! Now THERE'S a pun to be proud of!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 28,
+    "name": "Bill",
+    "dialog": "...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 29,
+    "name": "Bill",
+    "dialog": "What?",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 30,
+    "name": "Carol",
+    "dialog": "Bill, sweetheart... I'm sorry, no offense, but that joke was just terrible.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 31,
+    "name": "Bill",
+    "dialog": "Oh, like you could do better.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 32,
+    "name": "Carol",
+    "dialog": "Try me. We'll see who the real pun master is around here!",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 33,
+    "name": "Bill",
+    "dialog": "I swear to god if you make that bike joke again I'm-",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 34,
+    "name": "Carol",
+    "dialog": "Hey bill? I think I know what your favorite part of Christmas is.",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carol.png"
+  },
+  {
+    "key": 35,
+    "name": "Bill",
+    "dialog": "Oh god no, it's worse...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/bill.png"
+  },
+  {
+    "key": 36,
+    "name": "Carol",
+    "dialog": "Can you guess? Can you guess what I think it is?",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/carolClose.png"
+  },
+  {
+    "key": 37,
+    "name": "Bill",
+    "dialog": "Please god no...",
+    "bg": "images/bg/livingroom.jpg",
+    "portrait": "images/char/billClose.png"
+  },
+  {
+    "key": 38,
+    "name": "Carol",
+    "dialog": "Your favorite part of Christmas is...",
+    "bg": "images/bg/carolTooClose.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 39,
+    "name": "Bill",
+    "dialog": "Make it stop...",
+    "bg": "images/bg/billTooClose.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 40,
+    "name": "Carol",
+    "dialog": "...",
+    "bg": "images/bg/carolEye.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 41,
+    "name": "Carol",
+    "dialog": "Christmas Carols.",
+    "bg": "images/bg/carolEye.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 42,
+    "name": "Bill",
+    "dialog": "Why me...",
+    "bg": "images/bg/billEye.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 43,
+    "name": "",
+    "dialog": "[obligatory spongebob joke]",
+    "bg": "images/bg/obligatorySpongebobJoke.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 44,
+    "name": "Caleb",
+    "dialog": "Okay not really though, that's it for now.",
+    "bg": "images/black.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 45,
+    "name": "Caleb",
+    "dialog": "Also, as it has become a bad habit of mine, I ended up not reading the instructions properly.",
+    "bg": "images/black.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 46,
+    "name": "Caleb",
+    "dialog": "Also, as it has become a bad habit of mine, I ended up not reading the instructions properly.",
+    "bg": "images/black.png",
+    "portrait": "images/nothing.png"
+  },
+  {
+    "key": 47,
+    "name": "Caleb",
+    "dialog": "Either I'm gonna have to shoehorn in some nonsense to meet the requirements, or I need to scrap this idea...",
+    "bg": "images/black.png",
+    "portrait": "images/nothing.png"
+  }
+]
