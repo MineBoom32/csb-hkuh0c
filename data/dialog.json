@@ -317,21 +317,14 @@
   {
     "key": 45,
     "name": "Caleb",
-    "dialog": "Also, as it has become a bad habit of mine, I ended up not reading the instructions properly.",
+    "dialog": "I know it doesn't have everything I need, but hey, at least I managed to get it working.",
     "bg": "images/black.png",
     "portrait": "images/nothing.png"
   },
   {
-    "key": 46,
+    "key": 45,
     "name": "Caleb",
-    "dialog": "Also, as it has become a bad habit of mine, I ended up not reading the instructions properly.",
-    "bg": "images/black.png",
-    "portrait": "images/nothing.png"
-  },
-  {
-    "key": 47,
-    "name": "Caleb",
-    "dialog": "Either I'm gonna have to shoehorn in some nonsense to meet the requirements, or I need to scrap this idea...",
+    "dialog": "I know it doesn't have everything I need, but hey, at least I managed to get it working.",
     "bg": "images/black.png",
     "portrait": "images/nothing.png"
   }
